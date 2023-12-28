@@ -19,6 +19,7 @@ This project was created using React and Tailwind CSS.
 
 **GIF Previews**
 
-![alt text](https://github.com/invalidkaro/mobile-menu_animation/blob/master/Menu-with-Animation.gif "Full Screen Menu with Animated Icon")
-![alt text](https://github.com/invalidkaro/mobile-menu_animation/blob/master/Icon-Animation.gif "Animated Icon")
+![alt text](https://github.com/invalidkaro/mobile-menu_animation/blob/main/Menu-with-Animation.gif "Full Screen Menu with Animated Icon")
+
+![alt text](https://github.com/invalidkaro/mobile-menu_animation/blob/main/Icon-Animation.gif "Animated Icon")
 
